@@ -1,0 +1,17 @@
+Part,Cost,Quantity,Net Cost,Supplier,URL
+Coin Cell Battery, $0.23 ,400, $93.74 ,Digikey,http://www.digikey.com/product-detail/en/CR2032/P189-ND/31939
+Battery Holder, $0.99 ,400, $396.00 ,Digikey,http://www.digikey.com/product-detail/en/BH32T-C/BH32T-C-ND/257745
+ATtiny, $1.74 ,400, $696.00 ,Digikey,http://www.digikey.com/product-detail/en/ATTINY85V-10PU/ATTINY85V-10PU-ND/735471
+Switch, $0.51 ,400, $204.00 ,Digikey,http://www.digikey.com/product-detail/en/EG1271A/EG1919-ND/251336
+10kOhm Resistor, $0.02 ,400, $7.20 ,Digikey,http://www.digikey.com/product-detail/en/CFR-25JB-52-10K/10KQBK-ND/338
+Blue LED, $0.23 ,400, $90.80 ,Digikey,http://www.digikey.com/product-detail/en/151053BS04500/732-5019-ND/4490021
+10Ohm Resistor, $0.02 ,400, $7.52 ,Digikey,http://www.digikey.com/product-detail/en/CFR-25JB-52-10R/10QBK-ND/340
+Orange Led, $0.17 ,400, $66.80 ,Digikey,http://www.digikey.com/product-detail/en/WP7113SEC/754-1271-ND/1747670
+68Ohm Resistor, $0.02 ,400, $7.52 ,Digikey,http://www.digikey.com/product-detail/en/CFR-25JB-52-68R/68QBK-ND/2832
+Piezo , $0.02 ,400, $7.52 ,Digikey,http://www.digikey.com/product-detail/en/PS1240P02BT/445-2525-1-ND/935930
+Photodiode, $0.42 ,400, $168.00 ,Digikey,http://www.digikey.com/product-detail/en/PDV-P8104/PDV-P8104-ND/480611
+510kOhm Resistor, $0.02 ,400, $7.52 ,Digikey,http://www.digikey.com/product-detail/en/CFR-25JB-52-510K/510KQBK-ND/2305
+,,,,,
+,,,,,
+Unit Cost, $4.38 ,Total Cost," $1,752.62 ",,
+,,,,,
