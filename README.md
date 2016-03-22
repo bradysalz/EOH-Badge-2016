@@ -13,4 +13,6 @@ Some excellent photos taken by Ray Chan during EOH [here](https://photos.google.
 # Bugs
 - Orange and Blue LED are labeled backwards, whoops!
 - The 500kOhm resistor is far too large, 50k would be much better. Typo from reading the datasheet, just makes the devices extremely sensitive. 
+- First note is always wrong, probably need to re-read Timer init code
+- Lanyard hole is slightly too small, +5-10 mils would be better
 - My initials are covered up the battery cover (this one was actually intended)
